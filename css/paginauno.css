@@ -1,5 +1,5 @@
 header {
-    background: rgba(97, 17, 202, 0.7);
+    background: rgba(120, 33, 233, 0.7);
     width: 100%;
     position: absolute;
     z-index: 100;
@@ -27,4 +27,8 @@ header {
   }
   nav ul li:hover {
     background: #c54beb;
+  }
+
+  .center {
+    text-align: justify;
   }
