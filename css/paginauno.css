@@ -1,10 +1,30 @@
 header {
-    background: rgba(200, 30, 243, 0.7);
+    background: rgba(97, 17, 202, 0.7);
     width: 100%;
-    position: fixed;
+    position: absolute;
     z-index: 100;
   }
-
-nav{
+  
+  nav {
+    nav-left: auto;
+  }
+  
+  nav ul {
+    list-style: none;
+    overflow: hidden; 
+  }
+  
+  nav ul li {
     float: left;
-}
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  }
+  nav ul li a {
+    display: block;
+    padding: 10px;
+    color: #fff;
+    text-decoration: none;
+  }
+  nav ul li:hover {
+    background: #c54beb;
+  }
