@@ -63,8 +63,25 @@ nav ul li:hover {
   background-color: #64e6a58a;
   border-style: solid;
   border-color: #96f0c3a8;
-  border-width: 1px;
-  padding: 3%;
-  border-radius:15%;
+  border-width: 5px;
+  padding: 4%;
+  padding-right: 35%;
+  border-radius:10%;
+  display: inline-block;
+  vertical-align: top
+}
+
+.imagen{
+  float: right;
+  width: 230px;
+  height: 200px;
+  border-radius: 200px;
+
+}
+
+#container {
+  height: px;
+  width: 40px;
+  position: relative;
 }
 
