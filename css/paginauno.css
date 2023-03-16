@@ -1,0 +1,10 @@
+header {
+    background: rgba(200, 30, 243, 0.7);
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+  }
+
+nav{
+    float: left;
+}
