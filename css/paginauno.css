@@ -2,9 +2,14 @@ body {
   margin: 0px;
   background-color: rgba(255, 255, 255, 0.5);
   /* Cambiar la opacidad del color de fondo a 50% */
-  background-image: url('../img/fondo1.jpg');
+  background-color: rgba(207, 207, 207, 0.753);
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+footer {
+  background-color: rgba(120, 33, 233, 0.7);
+  
 }
 
 
@@ -77,11 +82,5 @@ nav ul li:hover {
   height: 200px;
   border-radius: 200px;
 
-}
-
-#container {
-  height: px;
-  width: 40px;
-  position: relative;
 }
 
