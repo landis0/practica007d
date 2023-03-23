@@ -1,9 +1,20 @@
 body {
     margin: 0px;
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(157, 230, 171, 0.5);
     /* Cambiar la opacidad del color de fondo a 50% */
-    background-color: rgba(207, 207, 207, 0.753);
+    background-color: rgba(184, 233, 194, 0.5);
     background-repeat: no-repeat;
     background-size: cover;
   }
 
+.p {
+    background-color: #febfff8a;
+  border-style: solid;
+  border-color: #14693da8;
+  border-width: 4px;
+  padding: 1%;
+  padding-right: 1%;
+  border-radius:1%;
+  display: inline-block;
+  vertical-align: top  
+}
